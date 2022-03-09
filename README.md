@@ -8,6 +8,11 @@ Ferramenta para auxiliar Devs a criar aplicações, que reagem a eventos do Apac
 
 ### Linux
 
+Download do arquivo KafkaTools 
+
+https://github.com/mauriciolimas/kafka-tools/releases/tag/V1.0.0
+
+
 Adicionar a permissão de execução de KafkaTools
 ```
 chmod +x KafkaTools
